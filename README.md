@@ -1,0 +1,1 @@
+# software-similarity-checker
